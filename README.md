@@ -24,9 +24,8 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=NPM&color=CB3837&style=for-the-badge&logo=npm" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Vercel&color=000000&style=for-the-badge&logo=vercel&logoColor=ffffff" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Netlify&color=00C7B7&style=for-the-badge&logo=netlify" />
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Jest&color=C21325&style=for-the-badge&logo=jest&logoColor=C21325" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman&color=FF6C37&style=for-the-badge&logo=postman&logoColor=FF6C37" />
-        <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Swagger&color=85EA2D&style=for-the-badge&logo=swagger" />
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Swagger&color=85EA2D&style=for-the-badge&logo=swagger" />
     </td>
   </tr>
    <tr>
