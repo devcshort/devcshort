@@ -28,7 +28,11 @@
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Swagger&color=85EA2D&style=for-the-badge&logo=swagger" />
     </td>
   </tr>
-   <tr>
+  
+</table>
+
+<table>
+     <tr>
     <th>Frontend</th>
     <th>Backend</th>
   </tr>
