@@ -18,7 +18,7 @@ class Bio {
 
 class Skills {
     languages   = ['TypeScript', 'JavaScript', 'C#'];
-    databases   = ['MongoDB', 'DynamoDB'];
+    databases   = ['MySQL', 'MongoDB', 'DynamoDB'];
     frameworks  = ['React', 'Next', 'Vue', '.NET Framework', '.NET Core'];
 }
 ```
