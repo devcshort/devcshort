@@ -35,7 +35,6 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React&color=61DAFB&style=for-the-badge&logo=react" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Next.js&color=000000&style=for-the-badge&logo=next.js" />
     </td>
     <td>
